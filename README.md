@@ -87,7 +87,3 @@ This Python script performs Optical Character Recognition (OCR) on a video file 
 - Processes a video file and performs OCR on selected frames.
 - Skips frames to speed up processing (adjustable with `skip_frames`).
 - Displays the video with annotated text using bounding boxes.
-
----
-
-Feel free to expand or modify these README templates to include additional information or instructions specific to your use case.
