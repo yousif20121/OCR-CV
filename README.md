@@ -7,7 +7,7 @@ This Python script performs Optical Character Recognition (OCR) on an image usin
 #### Prerequisites
 
 - Python 3.x
-- Tesseract OCR installed ([Download Tesseract](https://github.com/tesseract-ocr/tesseract))
+- Tesseract OCR installed ([Tesseract](https://github.com/tesseract-ocr/tesseract))
 - Required Python packages: `pytesseract`, `Pillow`, `opencv-python`
 
 #### Setup
